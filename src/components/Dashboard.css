@@ -1,0 +1,212 @@
+.site-card-wrapper {
+    padding: 30px;
+    height:100vh
+  }
+  .site{
+      height:500px
+  }
+  .site2{
+    margin-top:50px;
+    height:375px 
+  }
+  .Dashboardrow1{
+    height:250px;
+    background-color: lightblue;
+    position: relative;
+  }
+  .Dashboardrow2{
+    height:250px;
+    background-color: navy;
+    position: relative;
+  }
+  .Dashboardrow1col2{
+    height:400px;
+    background-color:lightgrey ;
+    overflow: scroll;
+    width:610px;
+  }
+  .Dashboardrow1col1{
+    height:100px;
+    background-color: rgb(248, 245, 245);
+  }
+  .Dashboardrow1Heading{
+    color:white;
+    float: left;
+    margin-left: 35px;
+    letter-spacing:1.5px;
+    margin-top: 25px;
+  }
+  .Dashboardrow1Image{
+position:absolute;
+top:50%;
+left:50%;
+transform: translate(-50%,-35%)
+  }
+  .Dashboardpart2{
+    position:absolute;
+    margin-top:60px;
+  }
+  .DashboardContent{
+    margin-left: 20px!important;
+    margin-top: 20px;
+    color:white;
+    font-size:10px !important
+  }
+  .DashboardContent2{
+    margin-left: 80px!important;
+    width:100px;
+  }
+  .DashboardContent4{
+    margin-left: 80px !important;
+    width:100px;
+  }  
+  .DashboardContent1{
+    width:100px;
+  }
+  .DashboardContent3{
+    width:100px;
+  }
+  .DashboardContentp1{
+    margin-left:-10px !important;
+  }
+  .DashboardContentp2{
+    margin-left:10px !important;
+  }
+  .DashboardContentp3{
+    margin-left:0px !important;
+  }
+  .DashboardContentp4{
+    margin-left:23px !important;
+  }
+  .DashboardApp{
+    float: left;
+    margin-left: 10px;
+    margin-top: 50px;
+  }
+  .DashboardAppIcon{
+    float: right;
+    margin-right: 20px;
+    margin-top: 65px;
+  }
+  .Dashboardcard{
+    margin: 20px!important;
+
+  }
+  .imgContent1 {
+    margin-top: -10px!important;
+    margin-left: 5px;
+    height:45px;
+    width:40px
+}
+.contentDream11{
+ margin-top:-20px;
+ margin-left:5px
+}
+.contentDreamP1{
+  margin-top: -20px;
+ font-size:8px;
+ margin-left: -50px!important;
+}
+.contentDream1{
+  margin-top: 5px;
+margin-bottom: -5px;
+font-size:9px;
+}
+.contentDreams{
+  margin-right: 15px!important;
+}
+.contentDream2{
+  font-size:17px
+}
+.arrow1 {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+.arrowHeader1{
+  float: right!important;
+  margin-left: 310px!important;
+  margin-top: 5px;
+}
+.card{
+height:120px
+}
+/* @media screen and (max-width: 1200px) {
+  
+  .Dashboardrow1col2{
+    width:560px;
+  }
+  .arrowHeader1{
+    float: right!important;
+    margin-left: 450px!important;
+    margin-top: -40px;
+  }
+  .contentDream1{
+    margin-top: -10px;
+  margin-bottom: -5px;
+  font-size:9px;
+  }
+}
+
+
+@media screen and (max-width: 720px) {
+  .Dashboardrow1col2{
+    width:320px;
+  }
+  .arrowHeader1{
+    float: right!important;
+    margin-left: 200px!important;
+    margin-top: -40px;
+  }
+  .contentDream1{
+    margin-top: -4px;
+  margin-bottom: -5px;
+  font-size:9px;
+  margin-right: 2px;
+  }
+  .contentDreams{
+    margin-right: 2px!important;
+  }
+  .DashboardContent2{
+    margin-left: 20px!important;
+  }
+  .DashboardContent4{
+    margin-left: 20px !important;
+}
+}
+@media screen and (max-width: 520px) {
+  .Dashboardrow2{
+    display:none;
+    position: absolute;
+  }
+.Dashboardrow1Image{
+    height:100px;
+    width:50px;
+    transform: translate(-250%,-55%);
+  }
+.Col23{
+  margin-left:10px;
+}
+.Dashboardrow1col1{
+margin-left:-10px;
+width:320px
+}
+.Dashboardrow1col2{
+  margin-left:-10px;
+}
+.Dashboardrow1{
+  width:320px;
+}
+.contentDream1{
+  margin-top: -2px;
+margin-bottom: -5px;
+font-size:9px;
+margin-right: 2px;
+}
+} */

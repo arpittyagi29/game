@@ -1,0 +1,65 @@
+.navBar{
+background-color: blue;
+height: 50px;
+}
+.Content{
+    padding-left: 80px;
+    padding-top: 15px;
+    float: left;
+    color: white;
+    letter-spacing:2px
+}
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 33px;
+  }
+  
+  .left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+  }
+  .imgContent {
+      margin-top: 15px;
+      margin-left: 50px;
+      height:45px;
+      width:40px
+  }
+  .contentDream{
+      margin-top:4px;
+      margin-left: 5px;
+  }
+  .contentDreamP{
+      margin-top:-20px;
+      font-size:11px;
+      float:left;
+      margin-left: 5px;
+  }
+  .ContentTable{
+      margin-top: 40px;
+      margin-left:70px;
+      margin-right:50px;
+      border: 0.5px solid lightgrey;
+  }
+  .tableData{
+      color:black;
+  }
+  .table{
+    margin-top: 30px;
+    margin-left:40px;
+    margin-right:40px;
+  }
+  /* @media screen and (max-width: 720px) {
+    .table{
+        width:500px;
+    }
+  }
+  @media screen and (max-width: 520px) {
+    .table{
+        width:500px;
+    }
+  } */
