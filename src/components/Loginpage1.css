@@ -1,0 +1,45 @@
+.site-card-wrapper {
+    padding: 150px;
+    /* border-radius:50px !important; */
+  }
+  .col1{
+      background:blue !important;
+      color:white !important;
+  }
+  .email{
+      margin:10px;
+  }
+  .password{
+    margin:10px
+  }
+  .submit{
+      background:blue;
+      border-radius: 30px;
+      color: white;
+      width:150px;
+      padding:2px;
+      margin:15px;
+  }
+  .submit1{
+    background:blue;
+    border-radius: 30px;
+    border: 1px solid white;
+    color: white;
+    width:150px;
+  margin-left: 20px;
+  text-align:center;
+    float:left
+  }
+  .mainPage{
+    background: #ececec;
+    height: 100vh;
+  }
+  .headermain{
+    margin-right: 100px;
+    color: white;
+  }
+  .headerline{
+    width:80px !important;
+    height:1px !important;
+    margin-right: 305px;
+  }

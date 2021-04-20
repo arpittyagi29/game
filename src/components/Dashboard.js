@@ -69,7 +69,7 @@ export class Dashboard extends Component {
            <Row>
          <Col>
          
-            <Image className="imgContent1" preview={false}
+            <Image className="imgContent1" preview={false} width={40}
       src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
     </Col>
     
@@ -112,7 +112,7 @@ export class Dashboard extends Component {
            <Row>
          <Col>
          
-            <Image className="imgContent1" preview={false}
+            <Image className="imgContent1" preview={false} width={40}
       src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
     </Col>
     
@@ -155,7 +155,7 @@ export class Dashboard extends Component {
            <Row>
          <Col>
          
-            <Image className="imgContent1" preview={false}
+            <Image className="imgContent1" preview={false} width={40}
       src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
     </Col>
     
@@ -198,7 +198,308 @@ export class Dashboard extends Component {
            <Row>
          <Col>
          
-            <Image className="imgContent1" preview={false}
+            <Image className="imgContent1" preview={false} width={40}
+      src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
+    </Col>
+    
+            <Col>
+               <h1 className="contentDream11">Dream 11</h1>
+                <p className="contentDreamP1">Publisher Name </p>
+        </Col>
+        <p ><i className="arrow1 right arrowHeader1"></i></p>
+        </Row>
+        <Row>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Revenue</p>
+          <p className="contentDream2"><strong>$345</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Request</p>
+          <p className="contentDream2"><strong>34M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Response</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">impressions</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+        </Row>
+        </Card>
+         </div>
+         <div className="Dashboardcard">
+         <Card className="card">
+           <Row>
+         <Col>
+         
+            <Image className="imgContent1" preview={false} width={40}
+      src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
+    </Col>
+    
+            <Col>
+               <h1 className="contentDream11">Dream 11</h1>
+                <p className="contentDreamP1">Publisher Name </p>
+        </Col>
+        <p ><i className="arrow1 right arrowHeader1"></i></p>
+        </Row>
+        <Row>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Revenue</p>
+          <p className="contentDream2"><strong>$345</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Request</p>
+          <p className="contentDream2"><strong>34M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Response</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">impressions</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+        </Row>
+        </Card>
+         </div>
+         <div className="Dashboardcard">
+         <Card className="card">
+           <Row>
+         <Col>
+         
+            <Image className="imgContent1" preview={false} width={40}
+      src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
+    </Col>
+    
+            <Col>
+               <h1 className="contentDream11">Dream 11</h1>
+                <p className="contentDreamP1">Publisher Name </p>
+        </Col>
+        <p ><i className="arrow1 right arrowHeader1"></i></p>
+        </Row>
+        <Row>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Revenue</p>
+          <p className="contentDream2"><strong>$345</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Request</p>
+          <p className="contentDream2"><strong>34M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Response</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">impressions</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+        </Row>
+        </Card>
+         </div>
+         <div className="Dashboardcard">
+         <Card className="card">
+           <Row>
+         <Col>
+         
+            <Image className="imgContent1" preview={false} width={40}
+      src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
+    </Col>
+    
+            <Col>
+               <h1 className="contentDream11">Dream 11</h1>
+                <p className="contentDreamP1">Publisher Name </p>
+        </Col>
+        <p ><i className="arrow1 right arrowHeader1"></i></p>
+        </Row>
+        <Row>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Revenue</p>
+          <p className="contentDream2"><strong>$345</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Request</p>
+          <p className="contentDream2"><strong>34M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Response</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">impressions</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+        </Row>
+        </Card>
+         </div>
+
+         <div className="Dashboardcard">
+         <Card className="card">
+           <Row>
+         <Col>
+         
+            <Image className="imgContent1" preview={false} width={40}
+      src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
+    </Col>
+    
+            <Col>
+               <h1 className="contentDream11">Dream 11</h1>
+                <p className="contentDreamP1">Publisher Name </p>
+        </Col>
+        <p ><i className="arrow1 right arrowHeader1"></i></p>
+        </Row>
+        <Row>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Revenue</p>
+          <p className="contentDream2"><strong>$345</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Request</p>
+          <p className="contentDream2"><strong>34M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Response</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">impressions</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+        </Row>
+        </Card>
+         </div><div className="Dashboardcard">
+         <Card className="card">
+           <Row>
+         <Col>
+         
+            <Image className="imgContent1" preview={false} width={40}
+      src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
+    </Col>
+    
+            <Col>
+               <h1 className="contentDream11">Dream 11</h1>
+                <p className="contentDreamP1">Publisher Name </p>
+        </Col>
+        <p ><i className="arrow1 right arrowHeader1"></i></p>
+        </Row>
+        <Row>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Revenue</p>
+          <p className="contentDream2"><strong>$345</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Request</p>
+          <p className="contentDream2"><strong>34M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Response</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">impressions</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+        </Row>
+        </Card>
+         </div>
+         <div className="Dashboardcard">
+         <Card className="card">
+           <Row>
+         <Col>
+         
+            <Image className="imgContent1" preview={false} width={40}
+      src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
+    </Col>
+    
+            <Col>
+               <h1 className="contentDream11">Dream 11</h1>
+                <p className="contentDreamP1">Publisher Name </p>
+        </Col>
+        <p ><i className="arrow1 right arrowHeader1"></i></p>
+        </Row>
+        <Row>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Revenue</p>
+          <p className="contentDream2"><strong>$345</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Request</p>
+          <p className="contentDream2"><strong>34M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">Ad Response</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+          <Col>
+          <div className="contentDreams">
+          <p className="contentDream1">impressions</p>
+          <p className="contentDream2"><strong>10M</strong></p>
+          </div>
+          </Col>
+        </Row>
+        </Card>
+         </div>
+         <div className="Dashboardcard">
+         <Card className="card">
+           <Row>
+         <Col>
+         
+            <Image className="imgContent1" preview={false} width={40}
       src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
     </Col>
     

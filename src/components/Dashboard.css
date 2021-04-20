@@ -1,6 +1,7 @@
 .site-card-wrapper {
-    padding: 30px;
-    height:100vh
+  margin-top: -100px;
+    height:100vh;
+    margin-left:-50px
   }
   .site{
       height:500px
@@ -24,7 +25,7 @@
     height:400px;
     background-color:lightgrey ;
     overflow: scroll;
-    width:610px;
+    width:515px;
   }
   .Dashboardrow1col1{
     height:100px;
@@ -114,6 +115,7 @@ margin-bottom: -5px;
 font-size:9px;
 }
 .contentDreams{
+  margin-top: -15px;
   margin-right: 15px!important;
 }
 .contentDream2{
@@ -132,20 +134,20 @@ font-size:9px;
 }
 .arrowHeader1{
   float: right!important;
-  margin-left: 310px!important;
-  margin-top: 5px;
+  margin-left: 410px!important;
+  margin-top: -30px;
 }
 .card{
 height:120px
 }
-/* @media screen and (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
   
   .Dashboardrow1col2{
-    width:560px;
+    width:440px;
   }
   .arrowHeader1{
     float: right!important;
-    margin-left: 450px!important;
+    margin-left: 320px!important;
     margin-top: -40px;
   }
   .contentDream1{
@@ -158,7 +160,7 @@ height:120px
 
 @media screen and (max-width: 720px) {
   .Dashboardrow1col2{
-    width:320px;
+    width:300px;
   }
   .arrowHeader1{
     float: right!important;
@@ -205,9 +207,9 @@ width:320px
   width:320px;
 }
 .contentDream1{
-  margin-top: -2px;
+  margin-top: 0px;
 margin-bottom: -5px;
-font-size:9px;
-margin-right: 2px;
+font-size:7px;
 }
-} */
+
+}

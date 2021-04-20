@@ -88,7 +88,7 @@ export class Page extends Component {
                 <p className="arrowHeader"><i className="arrow left arrowHeader"></i></p>
                 <Row>
                 <Col >
-            <Image className="imgContent" preview={false}
+            <Image className="imgContent" preview={false} width={70}
       src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png?x-oss-process=image/blur,r_50,s_50/quality,q_1/resize,m_mfit,h_200,w_200"/>
     </Col>
             <Col >
